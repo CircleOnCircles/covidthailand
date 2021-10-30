@@ -1,4 +1,4 @@
-# Availiable ICU per province
+# Availiable ICU Bed per province
 
 number of ICU could directly translate to number of ventalators, which is essential number to understand the regional situation.
 Mojority of the exceed death might be cause by a hospital cannot accept more emergency cases due to oppupency of bed for COVID patients.
