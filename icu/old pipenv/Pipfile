@@ -23,6 +23,7 @@ pytest = "*"
 mpld3 = "*"
 loguru = "*"
 TableauScraper = "*"
+playwright = "*"
 
 [dev-packages]
 
